@@ -15,4 +15,5 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|4682 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20Anagram.js)|88 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|95 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)|116 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|204 ms|
