@@ -11,7 +11,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|84 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|80 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./solutions/112.%20Path%20Sum.js)|84 ms|
-|121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|N/A|
+|121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|92 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|4682 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|95 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|204 ms|
