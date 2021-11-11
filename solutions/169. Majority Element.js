@@ -3,17 +3,17 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let targetSize = nums.length/2;
-    for(i=0; i<nums.length; i++){
-        let elem = nums[i];
-        let count = 0;
-        for(j=i; j<nums.length; j++){
-            if(elem === nums[j]){
-                count = count + 1;
-            }
+    var map = {};
+    var max = 0;
+    var majorNum = 0;
+    var len = nums.length;
+    for (var i = 0; i < len; i++) {
+        if (!map[nums[i]]) map[nums[i]] = 0;
+        map[nums[i]]++;
+        if (map[nums[i]] > max) {
+        majorNum = nums[i];
+        max = map[nums[i]];
         }
-        if(count >= targetSize){
-            return elem;
-        }
-    }
+    }
+  return majorNum;
 };
