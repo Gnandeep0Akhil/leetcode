@@ -18,6 +18,7 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|76 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|72 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|80 ms|
+|234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|116 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20Anagram.js)|88 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|95 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.js)|116 ms|
