@@ -9,6 +9,7 @@
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)|76 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JavaScript](./solutions/56.%20Merge%20Intervals.js)|84 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20Colors.js)|76 ms|
+|83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|92 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./solutions/100.%20Same%20Tree.js)|60 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|84 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|80 ms|
